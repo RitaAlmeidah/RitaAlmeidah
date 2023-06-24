@@ -1,7 +1,7 @@
 ### Olá 👋
 ### Bem vindes ao perfil de Rita Almeida 🤗
 <div>
-<a href="https://github.com/ritaalmeidah"><img height="180em" width="465" src="https://github-readme-stats.vercel.app/api?username=ritaalmeidah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="180em" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritaalmeidah&layout=compact&langs_count=7&theme=radical"/>
+<a href="https://github.com/ritaalmeidah"><img height="180em" width="280" src="https://github-readme-stats.vercel.app/api?username=ritaalmeidah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="180em" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritaalmeidah&layout=compact&langs_count=7&theme=radical"/>
 
 </br>
 
