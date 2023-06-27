@@ -1,7 +1,7 @@
 ### Olá 👋
 ### Bem vindes ao perfil de Rita Almeida 🤗
 
-<img height="380em" width="480" src="https://github-readme-stats.vercel.app/api?username=ritaalmeidah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="380em" width="510" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritaalmeidah&layout=compact&langs_count=7&theme=radical"/>
+<img height="280em" width="380" src="https://github-readme-stats.vercel.app/api?username=ritaalmeidah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="280em" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritaalmeidah&layout=compact&langs_count=7&theme=radical"/>
 
 ### ⚡Tecnologias
 📚 Adquirindo habilidades nas seguintes tecnologias:
