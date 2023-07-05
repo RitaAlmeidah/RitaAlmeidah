@@ -19,7 +19,6 @@
 <div> 
  <div>
   <img align="center" width="200em" alt="gatinho" src="https://steamuserimages-a.akamaihd.net/ugc/1290794463889738083/786556E1CAA1EC881B47444BC948420E07E48ADF/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
- <div>
  <br>
   <a href = "mailto:rita_aja92@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ritaa-almeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
